@@ -3,7 +3,7 @@ Mobile Application Development Laboratory
 
 | S.No | Experiment | APK (signed) |
 | ----------- | ----------- | -------|
-| 1 | ex1 |    |
+| 1 | ex1 | [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex1/app/release/app-release.apk)   |
 | 2 | ex2 |    |
 | 3 |  |    |
 | 4 |  |    |
