@@ -7,7 +7,7 @@ For my Mobile Application Development Laboratory classes.
 | 2 | ex2 | [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex2/app/release/app-release.apk)   |
 | 3 | ex3 |  [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex3/app/release/app-release.apk)  |
 | 4 | ex4 |  [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex4/app/release/app-release.apk)  |
-| 5 |  |    |
+| 5 | ex5 |  [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex5/app/release/app-release.apk)  |
 | 6 |  |    |
 | 7 |  |    |
 | 8 |  |    |
