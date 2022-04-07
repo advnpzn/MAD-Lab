@@ -1,5 +1,5 @@
 # MAD-Lab
-Mobile Application Development Laboratory 
+For my Mobile Application Development Laboratory classes.
 
 | S.No | Experiment | APK (signed) |
 | ----------- | ----------- | -------|
