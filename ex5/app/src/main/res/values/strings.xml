@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ex5</string>
+    <string name="channel_name">ex5_noti</string>
+    <string name="channel_description">NotificationChannel for ex5</string>
+</resources>
