@@ -8,7 +8,7 @@ For my Mobile Application Development Laboratory classes.
 | 3 | ex3 |  [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex3/app/release/app-release.apk)  |
 | 4 | ex4 |  [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex4/app/release/app-release.apk)  |
 | 5 | ex5 |  [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex5/app/release/app-release.apk)  |
-| 6 | ex6 |  [downlaod](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex6/release/app-release.apk)  |
+| 6 | ex6 |  [downlaod](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex6/app/release/app-release.apk)  |
 | 7 | ex7 |    |
 | 8 | ex8 |    |
 | 9 | ex9 |    |
