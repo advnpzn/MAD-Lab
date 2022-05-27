@@ -10,8 +10,3 @@ For my Mobile Application Development Laboratory classes.
 | 5 | ex5 |  [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex5/app/release/app-release.apk)  |
 | 6 | ex6 |  [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex6/app/release/app-release.apk)  |
 | 7 | ex7 |  [download](https://github.com/adenosinetp10/MAD-Lab/blob/main/ex7/app/release/app-release.apk)  |
-| 8 | ex8 |    |
-| 9 | ex9 |    |
-| 10 | ex10 |    |
-| 11 | ex11 |    |
-| 12 | ex12 |    |
